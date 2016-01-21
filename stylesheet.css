@@ -1,0 +1,53 @@
+body {
+    background: url('assets/images/ninja.jpeg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    color: blue;
+    background-color: cadetblue;
+    font-family: 'Helvetica Neue', 'Helvetica';
+    font-weight: 100;
+    font-size: 60px;
+    margin: 0px;
+    text-align: center;
+    padding: 25px;
+}
+
+.box {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    width: 600px;
+    margin: 100px auto;
+    text-align: center;
+}
+
+.item {
+    text-align: center;
+    color: cornsilk;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.item a {
+    color: coral;
+}
+
+
+}
+a:hover {
+    color: orange;
+}
+.git {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 300px;
+    margin: auto;
+    height: 200px;
+}
+.
